@@ -17,6 +17,8 @@ What is the most common name?
 
 ## Data Wrangling
 
+I have gathered assessed and cleaned the data to prepare it for further analysis.
+
 ## Data Visualization
 
 ## More info
