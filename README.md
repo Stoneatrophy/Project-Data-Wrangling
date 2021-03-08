@@ -5,8 +5,7 @@ In this project I am wrangling and visualizing data from @WeRateDogs Twitter-acc
 
 ## Questions
 
-What is the most common name?
-
+* What is the most common name?
 
 
 ## Data
@@ -17,7 +16,7 @@ What is the most common name?
 
 ## Data Wrangling
 
-I have gathered assessed and cleaned the data to prepare it for further analysis.
+I have gathered, assessed and cleaned the data to prepare it for further analysis.
 
 ## Data Visualization
 
