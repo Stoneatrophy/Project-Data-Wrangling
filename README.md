@@ -1,10 +1,13 @@
 # Project: Data Wrangling
 
-Blablablabla
+In this project I am wrangling and visualizing data from @WeRateDogs twitter-account.
+
 
 ## Questions
 
-Blablalbla
+What is the most common name?
+
+
 
 ## Data
 
