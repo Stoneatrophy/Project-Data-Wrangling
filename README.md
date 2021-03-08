@@ -20,3 +20,5 @@ What is the most common name?
 ## Data Visualization
 
 ## More info
+
+This project is part of the Data Analyst Nanodegree from Udacity.
