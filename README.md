@@ -1,4 +1,4 @@
-# Project-Data-Wrangling
+# Project: Data Wrangling
 
 ## Questions
 
