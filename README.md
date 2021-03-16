@@ -6,6 +6,9 @@ In this project I am wrangling and visualizing data from @WeRateDogs Twitter-acc
 ## Questions
 
 * What is the most common name?
+* What are the highest retweets and likes?
+* Which dog breed has the highest propability of being correct?
+* What is the highest rating per month?
 
 
 ## Data
