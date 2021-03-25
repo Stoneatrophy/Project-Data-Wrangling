@@ -14,8 +14,8 @@ In this project I am wrangling and visualizing data from @WeRateDogs Twitter-acc
 ## Data
 
 * @WeRateDogs Twitter-account
-* Twitter interaction data from tweepy, Twitter API
-* Image prediction data from Udacity server
+* Twitter interaction data from a Twitter API
+* Image prediction data from Udacity
 
 ## Data Wrangling
 
